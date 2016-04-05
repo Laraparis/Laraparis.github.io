@@ -1,2 +1,2 @@
 # Laraparis.github.io
-Our default repository for gh-pages
+Our is default repository for gh-pages
